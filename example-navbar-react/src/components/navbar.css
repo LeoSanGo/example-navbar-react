@@ -26,6 +26,9 @@ a {
   justify-content: space-around;
   height: 8vh;
   background: rgb(0,28,73);
+  position: fixed;
+  z-index: 1;
+  width: 100%;
 }
 
 .nav__brand {
